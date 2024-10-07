@@ -1,4 +1,4 @@
-# módulo-03 	:lemon:
+# Módulo-03  :lemon:
 
 **Bootcamp JS 2 - Variables y Backticks en JavaScript**
 
@@ -47,7 +47,7 @@ Los backticks son muy útiles cuando necesitas insertar variables dentro de cade
 
 ## Modificador %c 
 
-se utiliza en los métodos de console.log() para aplicar estilos CSS a los mensajes que se muestran en la consola del navegador. Esto permite personalizar la apariencia del texto, como cambiar colores, fuentes, etc.
+Se utiliza en los métodos de console.log() para aplicar estilos CSS a los mensajes que se muestran en la consola del navegador. Esto permite personalizar la apariencia del texto, como cambiar colores, fuentes, etc.
 
 Ejemplo: 
 
