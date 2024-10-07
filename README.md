@@ -45,7 +45,7 @@ en varias líneas.`;
 
 Los backticks son muy útiles cuando necesitas insertar variables dentro de cadenas o trabajar con texto en múltiples líneas.
 
-## modificador %c 
+## Modificador %c 
 
 se utiliza en los métodos de console.log() para aplicar estilos CSS a los mensajes que se muestran en la consola del navegador. Esto permite personalizar la apariencia del texto, como cambiar colores, fuentes, etc.
 
