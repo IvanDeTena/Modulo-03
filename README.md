@@ -25,22 +25,30 @@ Usa ${} para insertar variables dentro de cadenas de texto.
 Permiten escribir cadenas en varias líneas sin necesidad de concatenar.
 
 Ejemplo Básico:
-javascript
-Copiar código
+
 const nombre = "Juan";
 const saludo = `Hola, ${nombre}! Bienvenido.`;
 
-console.log(saludo); // Imprime: Hola, Juan! Bienvenido.
+><pre>console.log(saludo); // Imprime: Hola, Juan! Bienvenido.
+
 Ejemplo de Cadenas Multilínea:
-javascript
-Copiar código
+
 const texto = `Esto es
 una cadena
 en varias líneas.`;
 
-console.log(texto);
+><pre>console.log(texto);
 // Imprime:
 // Esto es
 // una cadena
 // en varias líneas.
+
 Los backticks son muy útiles cuando necesitas insertar variables dentro de cadenas o trabajar con texto en múltiples líneas.
+
+## modificador %c 
+
+se utiliza en los métodos de console.log() para aplicar estilos CSS a los mensajes que se muestran en la consola del navegador. Esto permite personalizar la apariencia del texto, como cambiar colores, fuentes, etc.
+
+Ejemplo: 
+
+><pre>console.log('%cEste es un mensaje con estilo', 'color: blue; font-size: 20px;');
